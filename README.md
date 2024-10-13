@@ -28,15 +28,7 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/31utuffqkjhcy7ozj6sshpbdrpam">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31utuffqkjhcy7ozj6sshpbdrpam&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
-
-<div align="center">
-  <img height="240" src="https://i.ibb.co/0Z4fVXv/video-fundo-pastel.gif"  />
+  <img height="240" src="https://i.ibb.co/wYYMCP1/Video-fundo-pastel.gif"  />
 </div>
 
 ###
