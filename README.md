@@ -28,7 +28,7 @@
 ###
 
 <div align="center">
-  <img height="240" src="https://i.ibb.co/wYYMCP1/Video-fundo-pastel.gif"  />
+  <img height="240" src="https://i.ibb.co/gdWHBjH/personagem-gif-eu.gif"  />
 </div>
 
 ###
